@@ -9,18 +9,6 @@ enum Color
     GRAY = 2
 };
 
-
-bool is_cycle_exist(const vector<vector<int>> &v){
-    vector<Color> c(v.size());
-    for ()
-    {
-        /* code */
-    }
-    
-
-
-}
-
 int main(){
 
 
